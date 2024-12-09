@@ -11,13 +11,13 @@ Features:
   - Cross-Platform Compatibility: Built using Electron JS, ensuring compatibility with multiple operating systems.
 
 Technologies: 
-  -> Backend:
+   - Backend:
           -Python
           -Libraries: SpeechRecognition, pyttsx3, Pyaudio, FastAPI
-  -> Frontend:
+   - Frontend:
           -HTML, CSS, JavaScript
           -Electron JS framework
-  -> Additional Features:
+   - Additional Features:
           -Facial Recognition: OpenCV
           -Task Scheduling: Python datetime module
 
