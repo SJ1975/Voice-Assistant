@@ -26,11 +26,6 @@ import openai
 from backend.Face_recognition import recognize_face
 from backend.Emotion_detection import main
 
-# claude_api = ai21.ClaudeAI(
-#         "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")
-
-# openai.api_key = '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'
-
 
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
