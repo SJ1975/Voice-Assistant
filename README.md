@@ -12,14 +12,14 @@ Features:
 
 Technologies: 
    - Backend:
-          -Python
-          -Libraries: SpeechRecognition, pyttsx3, Pyaudio, FastAPI
+          Python,
+          Libraries: SpeechRecognition, pyttsx3, Pyaudio, FastAPI
    - Frontend:
-          -HTML, CSS, JavaScript
-          -Electron JS framework
+          HTML, CSS, JavaScript,
+          Electron JS framework
    - Additional Features:
-          -Facial Recognition: OpenCV
-          -Task Scheduling: Python datetime module
+          Facial Recognition: OpenCV,
+          Task Scheduling: Python datetime module
 
 
 
